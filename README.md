@@ -11,3 +11,7 @@ Pero no deberemos trabajar ni en master ni en dev. Para ello, crearemos una nuev
 ## Creando ramas principales
 
 En el mismo GitHub hacemos clic en la rama master, donde nos aparecera un buscador. Tecleamos "dev" y hacemos clic en "Create branch: dev".
+
+## Configurando ramas
+
+
