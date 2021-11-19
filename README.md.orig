@@ -14,7 +14,9 @@ En el mismo GitHub hacemos clic en la rama master, donde nos aparecera un buscad
 
 ## Configurando ramas
 
+<<<<<<< HEAD
 (Cambiado desde B) ya he creado mi feature utilizando git checkout -b [nombre de la rama]
-
+=======
 Ya he creado mi feature utilizando git checkout -b [nombre de la rama]
+>>>>>>> e4675ba81e9a1ea72f8bd7e17881806d1991242f
 
